@@ -1717,7 +1717,7 @@ footer {
         gap: 20px;
         max-width: 1200px;
         margin: auto;
-        padding: 40px;
+        padding: 40px 20px;
     }
 
     .internship_card_header_section {
@@ -1767,7 +1767,7 @@ footer {
         display: flex;
         justify-content: center;
         align-items: center;
-        padding: 50px 10px 10px 10px;
+        padding: 50px 40px 10px 40px;
     }
 
     .recommended_section_course_container {
